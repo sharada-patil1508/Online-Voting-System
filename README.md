@@ -10,7 +10,13 @@ Tech Stack:
 	User Authentication – Secure registration & login system
 	Two User Roles – Group (Candidate + Voter) and Member (Voter)
 	One-Time Voting – Users can vote only once
-	Real-Time Vote Counting – Ensures accurate results
+	Real-Time Vote Counting – Ensures accurate 
+ 
+ 
+ resultshttps://github.com/sharada-patil1508/Online-Voting-System/blob/43fe483f14094d343cc4ffdc5ac54d203d7f23ed/Screenshot%202025-02-25%20193428.png
+
+
+ 
 
 
  
