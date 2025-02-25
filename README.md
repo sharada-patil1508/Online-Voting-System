@@ -13,7 +13,7 @@ Tech Stack:
 	Real-Time Vote Counting – Ensures accurate 
 
 
- https://github.com/sharada-patil1508/Online-Voting-System/blob/1d6ccd790a3b99744deb6ba785cb7055bf126c23/Screenshot%202025-02-25%20193428.png
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/1d6ccd790a3b99744deb6ba785cb7055bf126c23/Screenshot%202025-02-25%20193428.png)
  
  
 
