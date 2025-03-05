@@ -12,6 +12,11 @@ Tech Stack:
 	One-Time Voting – Users can vote only once
 	Real-Time Vote Counting – Ensures accurate 
 
+Registration: On this page, users can register for voting by filling in the appropriate fields shown in the figure.
+
+![image alt](Registration: On this page, users can register for voting by filling in the appropriate fields shown in the figure.)
+
+After registration, users can log in for voting by entering the correct username and password, as shown in the figure.
 
 
 
