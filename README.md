@@ -24,13 +24,14 @@ Once logged in, a pop-up message will appear indicating whether the login was su
 Loged in succesfully
 ![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/login.png)
 
-Loged out succesfully
-
-![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/loged%20out.png)
 
 Once logged in successfully, users can vote for only one candidate. After casting the vote, the voting option will disappear, and users can log out.
 
 ![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/Voted.png)
+
+Loged out succesfully
+
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/loged%20out.png)
 
 
 
