@@ -12,7 +12,7 @@ Tech Stack:
 	One-Time Voting – Users can vote only once
 	Real-Time Vote Counting – Ensures accurate 
 
- ![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/b62b3fb71a8a91a26971d719bb89c3554e3b85fd/Screenshot%202025-02-25%20193428.png)
+
 
 
 
