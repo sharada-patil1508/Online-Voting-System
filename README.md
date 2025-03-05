@@ -14,7 +14,7 @@ Tech Stack:
 
 Registration: On this page, users can register for voting by filling in the appropriate fields shown in the figure.
 
-![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/0be02ae568bfa5c0ba2d927dba6f4b9d7a9320e8/README.md)
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/0be02ae568bfa5c0ba2d927dba6f4b9d7a9320e8/Registration%20page.png)
 
 After registration, users can log in for voting by entering the correct username and password, as shown in the figure.
 
