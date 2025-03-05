@@ -14,7 +14,7 @@ Tech Stack:
 
 Registration: On this page, users can register for voting by filling in the appropriate fields shown in the figure.
 
-![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/0be02ae568bfa5c0ba2d927dba6f4b9d7a9320e8/Registration%20page.png)
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/4dca4d83a150be7dde6218ed612a071694c1edd7/Login%20page.png)
 
 After registration, users can log in for voting by entering the correct username and password, as shown in the figure.
 
@@ -27,6 +27,10 @@ Loged in succesfully
 Loged out succesfully
 
 ![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/loged%20out.png)
+
+Once logged in successfully, users can vote for only one candidate. After casting the vote, the voting option will disappear, and users can log out.
+
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/0be02ae568bfa5c0ba2d927dba6f4b9d7a9320e8/Registration%20page.png)
 
 
 
