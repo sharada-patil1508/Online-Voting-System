@@ -18,6 +18,18 @@ Registration: On this page, users can register for voting by filling in the appr
 
 After registration, users can log in for voting by entering the correct username and password, as shown in the figure.
 
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/Voted.png)
+
+Once logged in, a pop-up message will appear indicating whether the login was successful or not.
+Loged in succesfully
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/login.png)
+
+Loged out succesfully
+
+![image alt](https://github.com/sharada-patil1508/Online-Voting-System/blob/bd693b63dc6e9263cbb902686eda2b7a3d37e3c1/loged%20out.png)
+
+
+
 
 
 
